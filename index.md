@@ -6,7 +6,8 @@ title: Semantic CVC (Commit, Versioning & Changelog)
 
 # Semantic CVC (Commit, Versioning & Changelog)
 
-**Version:** Semantic CVC v1.0.0  
+**Version:** Semantic CVC v0.1.0 (Development)  
+**Status:** This specification is currently in development and has not been officially released.  
 **License:** Semantic CVC © 2024 by Ronny Hanssen is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ---
@@ -23,7 +24,7 @@ Semantic CVC improves **developer experience (DX)** by streamlining workflows, m
 
 ---
 
-## Specification Summary
+## Specification Summary (Development Version)
 
 | Type  | Purpose                        | Versioning Effect               | Changelog Section |
 |-------|--------------------------------|----------------------------------|-------------------|
@@ -124,6 +125,7 @@ A **semantic commit** is a coherent change focused on "one thing" only. This pra
 
 ---
 
+
 ## About Semantic CVC
 
-Semantic CVC © 2024 by Ronny Hanssen is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Semantic CVC</span> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Spiralis">Ronny Hanssen</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
