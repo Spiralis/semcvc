@@ -1,0 +1,4 @@
+title: "Semantic CVC (Commit, Versioning & Changelog)"
+description: "A structured approach to commit management, versioning, and changelog generation."
+baseurl: "" # Leave blank if deploying to root URL
+theme: jekyll-theme-cayman # Or choose any GitHub-supported theme
