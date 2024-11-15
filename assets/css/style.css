@@ -1,0 +1,12 @@
+/* Customize header color */
+h1, h2, h3 {
+  color: #333;
+}
+
+/* Customize code block appearance */
+pre, code {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 4px;
+  color: #d63384;
+}
